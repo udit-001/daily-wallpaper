@@ -20,8 +20,6 @@ data = soup.item.description.text
 href = data.split('PICTURE OF THE DAY:')[1].split('href=')[1].split('target=')[0]
 href = href.replace('\"', ' ').strip()
 
-
-
 today = datetime.now()
 files = os.listdir(os.getcwd())
 
