@@ -13,5 +13,7 @@ If you want your script to work silently in the background, then you'll also nee
 ## Features 
 It also displays a notification on your computer when the wallpaper gets updated.
 
+[Notifications Screenshot](https://raw.githubusercontent.com/udit-001/daily-wallpaper/master/img/notification.jpg)
+
 
 
