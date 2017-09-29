@@ -1,4 +1,17 @@
-### Daily-Wallpaper
+# Daily-Wallpaper
 
-Tired of seeing the same homescreen everyday? Go nowhere else, because you're on the right track!
+A python script to update desktop wallpaper on a Windows machine from a tumblr blog.
+
+##Inspiration
+I was tired of seeing the same boring Wallpaper on my Desktop everyday? After learning a little bit of Python, I decided to design a script that would update my wallpaper on it's own by fetching an image from a Tumblr Blog.
+
+## Usage
+This script can be scheduled to run daily by using they Task Scheduler utility present on Windows. You will require a BAT script to run the script from the task.
+
+If you want your script to work silently in the background, then you'll also need to create a .VBS script.
+
+## Features 
+It also displays a notification on your computer when the wallpaper gets updated.
+
+
 
