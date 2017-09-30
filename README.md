@@ -5,6 +5,13 @@ A python script to update desktop wallpaper on a Windows machine from a tumblr b
 ## Inspiration
 I was tired of seeing the same boring wallpaper on my desktop everyday. After learning a little bit of Python, I decided to design a script that would update my wallpaper on it's own by fetching an image from a [Tumblr Blog](http://fuckinghomepage.com/).
 
+## Installation
+Install the required dependencies/libraries by running  :
+
+```bash
+$ pip install -r requirements.txt
+```
+
 ## Usage
 This script can be scheduled to run daily by using the Task Scheduler utility present on Windows. You will require a BAT script to run the script from the task.
 
