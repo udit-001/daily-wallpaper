@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+requests==2.8.1
+requests-oauthlib==0.8.0
+urllib==1.21.1
+win10toast==0.8
