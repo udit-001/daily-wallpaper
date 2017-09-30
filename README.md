@@ -23,7 +23,7 @@ Set WshShell = CreateObject("WScript.Shell")
 WshShell.Run chr(34) & "<path to dailywall.bat>" & Chr(34), 0
 Set WshShell = Nothing
 ```
-Copy the above code and paste it into notepad, then modify the `<path to dallwall.bat>` save it as "dailywall.vbs".  
+Copy the above code and paste it into notepad, then modify the `<path to dailywall.bat>` and save it as "dailywall.vbs".  
 Now add the above script in the Windows Task that you'll schedule to run daily.
 
 ## Features 
