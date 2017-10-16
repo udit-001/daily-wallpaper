@@ -38,11 +38,12 @@ It also displays a notification on your computer when the wallpaper gets updated
 
 ![Notifications Screenshot](https://raw.githubusercontent.com/udit-001/daily-wallpaper/master/img/notification.jpg)
 
-## License
-
+## License  
 > You can check out the full license [here](https://github.com/udit-001/daily-wallpaper/blob/master/LICENSE)
 
 This project is licensed under the terms of the MIT license.
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 
 
